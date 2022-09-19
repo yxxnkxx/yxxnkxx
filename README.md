@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?&type=soft&color=gradient&customColorList=15&height=200&section=header&text=yxxnkxx_git&fontSize=30&animation=fadeIn)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxxnkxx)](https://github.com/yxxnkxx/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxxnkxx)](https://github.com/yxxnkxx/github-readme-stats) 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeykkk22)](https://solved.ac/leeykkk22)
 
