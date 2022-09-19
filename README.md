@@ -6,7 +6,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeykkk22)](https://solved.ac/leeykkk22)
 
-<div align=center><h1>blog</h1>
+
 <a href="https://code-master-s.tistory.com" target="_blank"><img
 src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=TISTORY&logoColor=white"/></a></div>
 
