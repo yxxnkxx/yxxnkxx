@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxxnkxx)](https://github.com/yxxnkxx/github-readme-stats) 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=leeykkk22)](https://solved.ac/leeykkk22)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=leeykkk22)](https://solved.ac/leeykkk22) 
 
 <a href="https://code-master-s.tistory.com" target="_blank"><img
 src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=TISTORY&logoColor=white"/></a></div>
