@@ -1,17 +1,10 @@
+### 👋 Hi there!
 
-
-![header](https://capsule-render.vercel.app/api?&type=soft&color=gradient&customColorList=15&height=200&section=header&text=yxxnkxx&fontSize=30&animation=fadeIn)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxxnkxx)](https://github.com/yxxnkxx/github-readme-stats) 
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=leeykkk22)](https://solved.ac/leeykkk22) 
-
-<a href="https://code-master-s.tistory.com" target="_blank"><img
-src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=TISTORY&logoColor=white"/></a></div>
 
 <div align=center><h1>📚 STACK</h1></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -31,3 +24,11 @@ src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=TISTOR
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
 
 </div>
+
+<br>
+
+<a href="https://code-master-s.tistory.com" target="_blank"><img
+src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=TISTORY&logoColor=white"/></a></div>
+
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=leeykkk22)](https://solved.ac/leeykkk22) 
